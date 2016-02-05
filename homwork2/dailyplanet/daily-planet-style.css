@@ -22,3 +22,7 @@ aside {
 footer {
     clear: both;
 }
+h1{
+    font-family: sans-serif;
+        font-color: red;
+}
