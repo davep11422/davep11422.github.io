@@ -1,4 +1,18 @@
-h1
-{
-    color:red
+h1, p {
+    font-family: cursive;
+    color:black;
+}
+a {
+    text-decoration: none;
+    padding: 10px;
+    font-weight: bold
+    
+}
+body {
+    width: 75%;
+    margin: 0 auto;
+    background-color: bisque;
+}
+nav{
+    margin: auto;
 }
