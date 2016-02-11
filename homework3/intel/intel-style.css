@@ -3,20 +3,37 @@ body {
     margin: 0 auto;
 }
 
-header,
-nav,
-{
-    border: 50px solid #0000ff;
-}
+
 
 image {
-    width: 50%
-}
+    width: 50%;
+    height: inherit;
+    }
 
 tittle {
     font-size: 50px;
 }
 
 div {
-    margin: auto
+    margin: auto;
+    
+}
+    
+}
+main{
+    background-color: darkblue;
+    color: aliceblue;
+    
+}
+nav{
+    color: aliceblue;
+}
+header{
+    background-color: cornflowerblue;
+    color: white;
+}
+a {
+    color:white;
+    padding: 15px;
+    
 }
