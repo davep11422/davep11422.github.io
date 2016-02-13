@@ -1,5 +1,5 @@
 body {
-    width: 55%;
+    width: 75%;
     margin: 0 auto;
 }
 
@@ -23,7 +23,7 @@ main {
     color: aliceblue;
 }
 nav {
-    color: aliceblue;
+    color: white;
 }
 header {
     background-color: cornflowerblue;
@@ -31,9 +31,12 @@ header {
     padding: 10px 10px 10px 10px;
 }
 a {
-    color: white;
     padding: 2px;
 }
 aside {
-   color:#C0C0C0;
+   background-color:#F0F0F0;
+padding: 10px 10px 10px 10px;    
+}
+p{
+    font-size: 13px;
 }
