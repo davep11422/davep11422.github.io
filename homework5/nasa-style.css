@@ -1,15 +1,15 @@
 div{
     background-color: #C0C0C0;
-    width: 15%;
+    width: 25%;
     float:left;
-    clear: left;
+    
 }
 .nasa{
     background-image: url(nasa-background.jpg);
     width: 850px;
     height:450px;
-    
-}
-.white{
     color: white;
-}
+    font-size: 85px;
+    
+    
+
