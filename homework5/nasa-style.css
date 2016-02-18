@@ -1,15 +1,39 @@
-div{
+div {
     background-color: #C0C0C0;
-    width: 25%;
-    float:left;
-    
 }
-.nasa{
+
+.nasa {
     background-image: url(nasa-background.jpg);
     width: 850px;
-    height:450px;
+    height: 450px;
     color: white;
     font-size: 85px;
-    
-    
+}
 
+.social {
+    float: left;
+    height: 324px;
+    width: 270px;
+    padding: 20px;
+}
+
+.office {
+    float: left;
+    height: 324px;
+    width: 270px;
+    padding: 20px;
+}
+
+.contact {
+    float: left;
+    height: 324px;
+    width: 270px;
+    padding: 20px;
+    }
+
+
+
+button {
+    background-color: black;
+    color: white;
+}
