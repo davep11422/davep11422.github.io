@@ -1,7 +1,11 @@
 h1,
 p {
-    font-family: cursive;
-    color: black;
+    font-family: monospace;
+    color: bisque;
+}
+P{
+    width: 25%;
+    font-size: 20px
 }
 
 a {
@@ -16,24 +20,29 @@ a:hover {
     color: cornflowerblue;
 }
 
-body {
-    width: 75%;
-    margin: 0 auto;
-    background-color:bisque
-}
-
-nav {
-    margin: auto;
-}
-
-img {
-    margin: inherit;
+body{
+    background-color: black
 }
 
 
+ul{
+    list-style-type: none;
 }
-body {
-    width: 55%;
-    margin: 0 auto;
+.img{
+    float: left;
+    clear: left;
+    margin: 20px;
+}
+.links{
     background-color: bisque;
+    width: 35%;
+    height: 45%;
+    float: left;
+    margin-top: 150px;
+}
+
+.info{
+    clear: left;
+    margin: 20px;
+        
 }
