@@ -7,14 +7,24 @@ div {
     width: 850px;
     height: 450px;
     color: white;
-    font-size: 85px;
+    font-size: 50px;
+    float: left;
+    clear: both;
+    font-family: sans-serif;
+    margin: 20px;
+    
+}
+
+.white {
+    margin: 25%;
 }
 
 .social {
     float: left;
     height: 324px;
-    width: 270px;
+    width: 255px;
     padding: 20px;
+    clear: left;
 }
 
 .office {
@@ -29,11 +39,10 @@ div {
     height: 324px;
     width: 270px;
     padding: 20px;
-    }
-
-
+}
 
 button {
     background-color: black;
     color: white;
+    border:
 }
