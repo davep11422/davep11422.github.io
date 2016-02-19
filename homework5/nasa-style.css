@@ -1,5 +1,6 @@
 div {
     background-color: #C0C0C0;
+    margin-bottom: 20px;
 }
 
 .nasa {
@@ -9,36 +10,41 @@ div {
     color: white;
     font-size: 50px;
     float: left;
-    clear: both;
     font-family: sans-serif;
     margin: 20px;
-    
-}
+    }
 
 .white {
-    margin: 25%;
+    margin-left: 250px;
+    margin-right: 100px;
+    margin-top: 200px;
+    margin-bottom: 50px;
 }
 
 .social {
     float: left;
     height: 324px;
-    width: 255px;
-    padding: 20px;
+    width: 270px;
     clear: left;
-}
+    margin-left: 20px;
+    padding-left: 20px;
+   }
 
 .office {
     float: left;
     height: 324px;
     width: 270px;
-    padding: 20px;
+    padding-left: 20px;
+    
+    
 }
 
 .contact {
     float: left;
     height: 324px;
-    width: 270px;
-    padding: 20px;
+    width: 254px;
+    padding-left: 20px;
+   
 }
 
 button {
