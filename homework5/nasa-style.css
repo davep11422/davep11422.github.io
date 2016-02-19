@@ -56,5 +56,10 @@ button {
 }
 
 .wide{
-    height: 100px;
+    height: 75px;
+}
+ul{
+    list-style: none;
+    padding: 10px;
+    
 }
