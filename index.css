@@ -1,5 +1,4 @@
-h1,
-p {
+h1, p {
     font-family: monospace;
     color: bisque;
 }
@@ -60,4 +59,7 @@ footer{
     margin-left:  150px;
     margin-top: 10px;
         
+}
+li{
+    padding: 2px;
 }
