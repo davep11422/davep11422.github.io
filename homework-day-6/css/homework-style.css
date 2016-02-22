@@ -29,6 +29,7 @@ aside {
     margin-right: 20px;
     margin-left: 50px;
     padding: 5px;
+    clear: left;
 }
 .features {
     float: left;
@@ -39,6 +40,7 @@ aside {
     float: left;
     margin-right: 20px;
     margin-left: 50px;
+    
 }
 
 
@@ -50,12 +52,23 @@ li {
     color: gray;
     font-family: sans-serif;
 }
-container{
+.container{
     float: left;
-    clear: left;
-    width: 40px;
+    
+    
+    
 }
 a {
     color: black;
 }
+
+.two,.one{
+    margin-bottom: 20px;
+    background-color: #F0F0F0;
+}
+.three{
+    background-color: #F0F0F0;
+    
+}
+
 
