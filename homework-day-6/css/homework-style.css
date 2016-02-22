@@ -40,10 +40,7 @@ aside {
     float: left;
     margin-right: 20px;
     margin-left: 50px;
-    
 }
-
-
 h1,
 h3,
 h2,
@@ -52,23 +49,21 @@ li {
     color: gray;
     font-family: sans-serif;
 }
-.container{
+.container {
     float: left;
-    
-    
-    
 }
 a {
     color: black;
 }
-
-.two,.one{
-    margin-bottom: 20px;
+.two,
+.one {
+    margin-bottom: 15px;
     background-color: #F0F0F0;
+    width: 450px;
+    height: 175px;
 }
-.three{
+.three {
     background-color: #F0F0F0;
-    
+    width: 450px;
+    height: 175px;
 }
-
-
