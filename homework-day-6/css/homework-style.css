@@ -49,6 +49,12 @@ li {
     color: gray;
     font-family: sans-serif;
 }
+h2{
+    font-size: 15px;
+}
+p{
+    font-size: 15px;
+}
 .container {
     float: left;
 }
@@ -59,11 +65,11 @@ a {
 .one {
     margin-bottom: 15px;
     background-color: #F0F0F0;
-    width: 450px;
-    height: 175px;
+    width: 320px;
+    height: 130px;
 }
 .three {
     background-color: #F0F0F0;
-    width: 450px;
-    height: 175px;
+    width: 320px;
+    height: 130px;
 }
