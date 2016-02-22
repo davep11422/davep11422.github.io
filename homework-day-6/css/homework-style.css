@@ -1,70 +1,61 @@
+*{
+    outline: 1px red solid;
+}
 
-
-
-
-aside{
+aside {
     margin-left: 350px;
     width: 750px;
     margin-bottom: 80px;
-        
 }
 
-.main{
+.main {
     width: 350px;
-    height: 450px;
+    height: 425px;
     float: left;
     clear: left;
     background-color: #F0F0F0;
     margin-right: 40px;
     margin-left: 50px;
-    
+    padding: 10px;
 }
-{
-    
-    width: 320px;
-    background-color: #F0F0F0;
-    clear: right;
-    
+
+
 }
 .clear-fix:after {
-    content:'';
+    content: '';
     display: block;
     clear: both;
-    
 }
-
-.info{
+.info {
     float: left;
     margin-right: 20px;
+    margin-left: 50px;
+    padding: 5px;
 }
-
-.features{
+.features {
     float: left;
     margin-right: 20px;
+    margin-left: 50px;
 }
-.contact{
+.contact {
     float: left;
     margin-right: 20px;
+    margin-left: 50px;
 }
-.one{
+.one {
    
-}
-.two{
     
 }
-.three{
-    
-   
+.two {}
+.three {}
+h1,
+h3,
+h2,
+p,
+li {
+    color: gray;
+    font-family: sans-serif;
 }
-
-
-   
-
-    
-    
-    
-    
-    
-
-   
-
+container{
+    float: left;
+}
