@@ -64,14 +64,19 @@ a {
     
 }
 .two,
-.one {
+.one, .three {
     margin-bottom: 15px;
     background-color: #F0F0F0;
-    width: 320px;
+    width: 340px;
     height: 130px;
 }
-.three {
-    background-color: #F0F0F0;
-    width: 320px;
-    height: 130px;
+
+#pic{
+    float: left;
+    clear: right;
+}
+.text{
+    float: right;
+    width: 150px;
+    
 }
