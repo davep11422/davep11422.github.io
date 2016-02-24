@@ -51,7 +51,8 @@
     font-weight: bold;
     font-size: 50px;
 }
-#land p{
+
+#land p {
     color: #fff;
 }
 
@@ -59,26 +60,21 @@
     border: 1px solid #fff;
     color: #fff;
     font-weight: bold;
-    
     height: 25px;
     margin: 12px;
     padding: 10px;
 }
-#land a:first-child{
+
+#land a:first-child {
     background-color: #787878;
 }
-
 
 .margin-a {
     margin-top: 25px;
 }
 
-
-
-
 main {
-    background-color: 
-    width: 1150px;
+    background-color: width: 1150px;
     height: 300px;
 }
 
@@ -91,14 +87,15 @@ aside {
     display: block;
     clear: both;
 }
-.home{
+
+.home {
     background: url(../img/1.jpg);
     width: 1500px;
     height: 400px;
     margin-top: 50px;
 }
 
-.home p{
+.home p {
     text-transform: capitalize;
     font-family: sans-serif;
     font-weight: bold;
@@ -107,7 +104,8 @@ aside {
     padding-left: 180px;
     padding-bottom: 15px;
 }
-.home h1{
+
+.home h1 {
     text-transform: capitalize;
     font-family: sans-serif;
     font-weight: bold;
@@ -116,7 +114,7 @@ aside {
     padding-bottom: 15px;
 }
 
-.home h3{
+.home h3 {
     text-transform: capitalize;
     font-family: sans-serif;
     font-weight: bold;
@@ -124,13 +122,13 @@ aside {
     font-size: 20px;
     padding-left: 45px;
     padding-bottom: 25px;
-    
 }
-.inside{
-    
+
+.inside {
     margin-left: 425px;
     padding-top: 150px;
 }
+
 .home a {
     border: 0px solid #fff;
     width: 45px;
@@ -146,13 +144,19 @@ aside {
     margin-left: 200px;
     font-weight: bold;
 }
-.nav-a{
+
+.nav-a {
     font-family: sans-serif;
     font-weight: bold;
     padding: 5px;
-    color: black;
+    color: #BFBF4E;
     margin-left: 10px;
 }
-a{
+
+a {
     text-decoration: none;
+}
+
+.nav-a a {
+    color: #BFBF4E;
 }
