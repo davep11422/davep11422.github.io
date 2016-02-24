@@ -153,3 +153,6 @@ aside {
     color: black;
     margin-left: 10px;
 }
+a{
+    text-decoration: none;
+}
