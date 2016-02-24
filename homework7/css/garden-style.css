@@ -36,7 +36,7 @@
     width: 600px;
     padding: 50px;
     float: left;
-    height: 400px;
+    height: 372px;
 }
 
 #land h3 {
@@ -51,26 +51,36 @@
     font-weight: bold;
     font-size: 50px;
 }
+#land p{
+    color: #fff;
+}
+
 #land a {
     border: 1px solid #fff;
     color: #fff;
     font-weight: bold;
     width: 25px;
     height: 25px;
-    margin: 10px;
+    margin: 12px;
     padding: 10px;
 }
-.margin-a{
-    margin-top: 20px; 
+#land a:first-child{
+    background-color: #787878;
 }
+
+
+.margin-a {
+    margin-top: 25px;
+}
+
 a {
     text-decoration: none;
 }
 
 main {
-    background-color: black;
+    background-color: 
     width: 1150px;
-    height: 500px;
+    height: 300px;
 }
 
 aside {
@@ -81,4 +91,63 @@ aside {
     content: '';
     display: block;
     clear: both;
+}
+.home{
+    background: url(../img/1.jpg);
+    width: 1500px;
+    height: 400px;
+    margin-top: 50px;
+}
+
+.home p{
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #fff;
+    font-size: 15px;
+    padding-left: 140px;
+    padding-bottom: 15px;
+}
+.home h1{
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #fff;
+    font-size: 50px;
+    padding-bottom: 15px;
+}
+
+.home h3{
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #fff;
+    font-size: 20px;
+    padding-left: 45px;
+    padding-bottom: 25px;
+    
+}
+.inside{
+    
+    margin-left: 425px;
+    padding-top: 150px;
+}
+.home a {
+    border: 0px solid #fff;
+    width: 45px;
+    height: 20px;
+    text-transform: capitalize;
+    color: #fff;
+    background-color: #BFBF4E;
+    font-family: sans-serif;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 200px;
+    font-weight: bold;
+   
+    
+    
+    
 }
