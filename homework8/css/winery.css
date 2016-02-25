@@ -39,7 +39,28 @@ header nav a:hover{
     width: 771px;
     float: left;
     text-align: center;
+    font-weight: bold;
+    padding-top: 150px;
 }
+
+.est h4{
+    color: #B0B0B0;
+    margin-bottom: 40px;
+}
+.est h2 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    font-family: sans-serif;
+}
+.est p{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+
+
+
 .wine16{
     float: left;
 }
@@ -50,8 +71,27 @@ header nav a:hover{
     height: 400px;
     background: linear-gradient(to bottom, rgba(20,20,20,0.9) 0%, rgba(0,0,0,0.9) 100%), url('../img/wine13.jpg');
     color: #fff;
+    
+    background-position: center;
+}
+
+.fine h3 {
+    font-size: 30px;
+   font-weight: bold;
+    width: 1000px;
     text-align: center;
-    background-position: bottom;
+    padding-left: 200px;
+    padding-top: 80px;
+    
+}
+
+.fine p{
+    font-size: 15px;
+    font-weight: bold;
+    width: 1000px;
+    text-align: center;
+    padding-left: 200px;
+    padding-top: 80px;
 }
 .poppin-bottles{
     float: left;
