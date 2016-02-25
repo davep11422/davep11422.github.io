@@ -53,4 +53,49 @@ header nav a:hover{
     text-align: center;
     background-position: bottom;
 }
+.poppin-bottles{
+    float: left;
+    clear: left;
+}
+
+.uvas {
+    float: left;
+    width: 325px;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 70px;
+}
+
+    
+.uvac{
+    float: left;
+    width: 325px;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 70px;
+}
+.uvam{
+    float: left;
+    width: 325px;
+    text-align: center; 
+     margin-left: 70px;
+    
+}
+
+.popping-bottles h4 {
+    font-size: 25px;
+    font-weight: bold;
+}
+.popping-bottles P{
+    font-weight: bold;
+    width: 350px;
+    font-size: 15px;
+}
+
+.popping-bottles a{
+    color: #fff;
+}
+
+    
+
 
