@@ -19,8 +19,12 @@ a:hover {
     color: cornflowerblue;
 }
 
+
 body{
-    background-color: black
+    background-color: black;
+    width: 1250px;
+    
+        
 }
 
 
