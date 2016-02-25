@@ -1,0 +1,56 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+header{
+    height: 20px;
+    padding: 15px;
+}
+
+#hero{
+    color: #fff;
+    background: linear-gradient(to bottom, rgba(20,20,20,0.9) 0%, rgba(0,0,0,0.9) 100%), url('../img/wine-bg.jpg');
+    height: 500px;
+    background-position: center;
+    text-align: center;
+    padding-top: 250px;
+}
+
+header h1{
+    float: left;
+    text-transform: uppercase;
+}
+header nav{
+    float: right;
+}
+header nav a{
+    text-decoration: none;
+    color: #000;
+    margin-left: 15px;
+}
+header nav a:hover{
+    text-decoration: underline;
+    
+}
+#hero h2{
+    margin-bottom: 50px;
+    font-size: 80px;
+}
+.est{
+    width: 771px;
+    float: left;
+    text-align: center;
+}
+.wine16{
+    float: left;
+}
+.fine{
+    float: left;
+    clear: left;
+    width: 1600px;
+    height: 400px;
+    background: linear-gradient(to bottom, rgba(20,20,20,0.9) 0%, rgba(0,0,0,0.9) 100%), url('../img/wine13.jpg');
+    color: #fff;
+    text-align: center;
+    background-position: bottom;
+}
+
