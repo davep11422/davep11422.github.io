@@ -64,6 +64,7 @@ header nav a:hover{
     text-align: center;
     margin-right: 30px;
     margin-left: 70px;
+    
 }
 
     
@@ -87,13 +88,23 @@ header nav a:hover{
     font-weight: bold;
 }
 .popping-bottles P{
-    font-weight: bold;
+    /*font-weight: bold;*/
     width: 350px;
     font-size: 15px;
+    margin-bottom: 20px;
 }
 
 .popping-bottles a{
     color: #fff;
+    background-color: #D2B48C;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 15px;
+    padding-left: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    
+    
 }
 
     
