@@ -1,41 +1,46 @@
-body{
+body {
     font-family: 'Open Sans', sans-serif;
 }
-header{
+
+header {
     height: 20px;
     padding: 15px;
 }
 
-#hero{
+#hero {
     color: #fff;
-    background: linear-gradient(to bottom, rgba(20,20,20,0.9) 0%, rgba(0,0,0,0.9) 100%), url('../img/wine-bg.jpg');
+    background: linear-gradient(to bottom, rgba(20, 20, 20, 0.9) 0%, rgba(0, 0, 0, 0.9) 100%), url('../img/wine-bg.jpg');
     height: 500px;
     background-position: center;
     text-align: center;
     padding-top: 250px;
 }
 
-header h1{
+header h1 {
     float: left;
     text-transform: uppercase;
 }
-header nav{
+
+header nav {
     float: right;
 }
-header nav a{
+
+header nav a {
     text-decoration: none;
     color: #000;
     margin-left: 15px;
 }
-header nav a:hover{
+
+header nav a:hover {
     text-decoration: underline;
-    
 }
-#hero h2{
+
+#hero h2 {
     margin-bottom: 50px;
     font-size: 80px;
 }
-.est{
+
+.est {
     width: 771px;
     float: left;
     text-align: center;
@@ -43,49 +48,47 @@ header nav a:hover{
     padding-top: 150px;
 }
 
-.est h4{
+.est h4 {
     color: #B0B0B0;
     margin-bottom: 40px;
 }
+
 .est h2 {
     font-size: 30px;
     font-weight: bold;
     margin-bottom: 50px;
     font-family: sans-serif;
 }
-.est p{
+
+.est p {
     font-size: 15px;
     font-family: sans-serif;
 }
 
-
-
-
-.wine16{
+.wine16 {
     float: left;
 }
-.fine{
+
+.fine {
     float: left;
     clear: left;
     width: 1600px;
     height: 400px;
-    background: linear-gradient(to bottom, rgba(20,20,20,0.9) 0%, rgba(0,0,0,0.9) 100%), url('../img/wine13.jpg');
+    background: linear-gradient(to bottom, rgba(20, 20, 20, 0.9) 0%, rgba(0, 0, 0, 0.9) 100%), url('../img/wine13.jpg');
     color: #fff;
-    
     background-position: center;
 }
 
 .fine h3 {
     font-size: 30px;
-   font-weight: bold;
+    font-weight: bold;
     width: 1000px;
     text-align: center;
     padding-left: 200px;
     padding-top: 80px;
-    
 }
 
-.fine p{
+.fine p {
     font-size: 15px;
     font-weight: bold;
     width: 1000px;
@@ -93,7 +96,8 @@ header nav a:hover{
     padding-left: 200px;
     padding-top: 80px;
 }
-.poppin-bottles{
+
+.poppin-bottles {
     float: left;
     clear: left;
 }
@@ -104,37 +108,36 @@ header nav a:hover{
     text-align: center;
     margin-right: 30px;
     margin-left: 70px;
-    
 }
 
-    
-.uvac{
+.uvac {
     float: left;
     width: 325px;
     text-align: center;
     margin-right: 30px;
     margin-left: 70px;
 }
-.uvam{
+
+.uvam {
     float: left;
     width: 325px;
-    text-align: center; 
-     margin-left: 70px;
-    
+    text-align: center;
+    margin-left: 70px;
 }
 
 .popping-bottles h4 {
     font-size: 25px;
     font-weight: bold;
 }
-.popping-bottles P{
+
+.popping-bottles P {
     /*font-weight: bold;*/
     width: 350px;
     font-size: 15px;
     margin-bottom: 20px;
 }
 
-.popping-bottles a{
+.popping-bottles a {
     color: #fff;
     background-color: #D2B48C;
     padding-top: 3px;
@@ -143,10 +146,4 @@ header nav a:hover{
     padding-left: 15px;
     text-decoration: none;
     font-weight: bold;
-    
-    
 }
-
-    
-
-
