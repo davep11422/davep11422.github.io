@@ -1,10 +1,20 @@
 h1, p {
-    font-family: monospace;
-    color: bisque;
+    font-family: sans-serif;
+    color: #fff;
+    font-weight: bold;
 }
 P{
     width: 25%;
     font-size: 20px
+}
+
+main{
+    width: 1250px;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-color: 
+    
 }
 
 a {
@@ -21,10 +31,14 @@ a:hover {
 
 
 body{
+    background:linear-gradient(to bottom, rgba(20, 20, 20, 0.9) 0%, rgba(0, 0, 0, 0.9) 100%), url('homework7/img/tumblr_nvi1ovWYXZ1uaw99qo1_1280.jpg');
     background-color: black;
-    width: 1250px;
-    
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
         
+    
+    
 }
 
 
@@ -38,7 +52,7 @@ li{
 .img{
     float: left;
     clear: left;
-    margin-left:  150px;
+    margin-left:  250px;
     margin-bottom: 30px;
 }
 .links{
@@ -51,7 +65,7 @@ li{
 
 .info{
     clear: left;
-    margin-left:  150px;
+    margin-left:  250px;
     margin-bottom: 50px;
     margin-top: 40px;
         
@@ -59,6 +73,8 @@ li{
 
 .margin{
     margin:auto;
-}        
+}    
+
+
 
 
