@@ -66,7 +66,7 @@ header h3{
     float: left;
     width: 2000px;
     height: 300px;
-    padding-top: 50px;
+    padding-top: 70px;
     color: #FF00FF;
     
 }
@@ -80,15 +80,52 @@ header h3{
 .smoking{
     float: left;
     clear: left;
-    width: 200px;
+    width: 275px;
+    text-align: center;
 }
 
-.gutiar{
-    clear: left;
-    width: 200px;
+.guitar{
+    float: left;
+    width: 275px;
+    text-align: center;
 }
 
 .hat{
+    float: left;
+    width: 275px;
+    text-align: center;
     
-    width: 200px;
+}
+
+.eyes{
+    float: left;
+    width: 275px;
+    text-align: center;
+    
+}
+
+.big-picture{
+    float: left;
+    width: 1000px;
+    color: #FF00FF;
+    padding-top: 100px;
+}
+
+.legs{
+    float: left;
+    clear: left;
+    width: 400px;
+    padding-left: 40px;
+    padding-right: 100px;
+    text-align: center;
+}
+
+the-wall{
+    float: left;
+    padding-top: 100px;
+    clear: left;
+    width: 375px;
+    text-align: center;
+    padding-left: 100px;
+    margin-left: 100px;
 }
