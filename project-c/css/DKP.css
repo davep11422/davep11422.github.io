@@ -33,7 +33,7 @@ header h3{
     background: url(../img/tumblr_o2gsgqAwTI1uaw99qo1_1280.jpg);
     height: 500px;
     background-position: center;
-    
+    background-repeat: no-repeat;
 }
 #tree h1{
     margin-left: 250px;

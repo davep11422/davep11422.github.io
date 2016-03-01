@@ -61,6 +61,17 @@ li{
     height: 45%;
     float: left;
     margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.project{
+    background-color: bisque;
+    width: 35%;
+    height: 45%;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    
 }
 
 .info{
