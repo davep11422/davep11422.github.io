@@ -1,0 +1,52 @@
+header{
+    height: 20px;
+    padding: 15px;
+}
+header nav{
+    float: right;
+    padding-top: 25px;
+}
+
+header h3{
+    float: left;
+}
+
+
+
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+body{
+    font-family:'Oswald', sans-serif;
+}
+#tree{
+    background: url(../img/tumblr_nvi1ovWYXZ1uaw99qo1_1280.jpg);
+    height: 500px;
+    background-position: center;
+    
+}
+#tree h1{
+    margin-left: 250px;
+    padding-top: 250px;
+    font-size: 80px;
+    color: #FF00FF;
+    
+}
+#tree p {
+    margin-left: 450px;
+    color: #FF00FF;
+    font-size: 30px;
+}
+
+.tea{
+    float: left
+}
+
+.tea-leaf{
+    float: left;
+    width: 600px;
+        color:#FF00FF;
+}
