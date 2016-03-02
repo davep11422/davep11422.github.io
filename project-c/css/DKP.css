@@ -1,74 +1,79 @@
-.container{
+.container {
     width: 80%;
     margin: 0 auto;
 }
 
-body{
-    font-family:'Oswald', sans-serif;
-    background-color: black;
+body {
+    font-family: 'Oswald', sans-serif;
+    background: black;
 }
 
-header{
+header {
     height: 20px;
     padding: 15px;
     color: #FF00FF;
 }
 
-header a{
+header a {
     color: #FF00FF;
     padding: 10px;
     text-decoration: none;
 }
-header nav{
+
+header nav {
     float: right;
     padding-top: px;
-    
 }
 
-header h3{
+header h3 {
     float: left;
 }
 
-#tree{
+#tree {
     background: url(../img/tumblr_o2gsgqAwTI1uaw99qo1_1280.jpg);
     height: 500px;
     background-position: center;
     background-repeat: no-repeat;
+    font-weight: bold;
 }
-#tree h1{
+
+#tree h1 {
     margin-left: 250px;
     padding-top: 250px;
     font-size: 80px;
     color: #FF00FF;
-    
 }
+
 #tree p {
     margin-left: 450px;
     color: #FF00FF;
     font-size: 30px;
 }
 
-.tea{
+.tea {
     padding-top: 50px;
     float: left;
     margin-right: 25px;
 }
 
-.tea-leaf{
+.tea-leaf {
     float: left;
     width: 600px;
-        color:#FF00FF;
+    color: #FF00FF;
     margin-top: 100px;
-   
 }
 
-.pics{
+
+.pics {
     float: left;
-    width: 2000px;
-    height: 300px;
-    padding-top: 70px;
+    width: 1250px;
+    height: 350px;
+    padding-top: 80px;
     color: #FF00FF;
-    
+}
+
+.pics h1{
+    font-size: 30px;
 }
 
 .clear-fix:after {
@@ -76,42 +81,40 @@ header h3{
     display: block;
     clear: both;
 }
-    
-.smoking{
+
+.smoking {
     float: left;
     clear: left;
     width: 275px;
     text-align: center;
 }
 
-.guitar{
+.guitar {
     float: left;
     width: 275px;
     text-align: center;
 }
 
-.hat{
+.hat {
     float: left;
     width: 275px;
     text-align: center;
-    
 }
 
-.eyes{
+.eyes {
     float: left;
     width: 275px;
     text-align: center;
-    
 }
 
-.big-picture{
+.big-picture {
     float: left;
     width: 1000px;
     color: #FF00FF;
     padding-top: 100px;
 }
 
-.legs{
+.legs {
     float: left;
     clear: left;
     width: 400px;
@@ -120,7 +123,7 @@ header h3{
     text-align: center;
 }
 
-the-wall{
+the-wall {
     float: left;
     padding-top: 100px;
     clear: left;
@@ -130,18 +133,18 @@ the-wall{
     margin-left: 100px;
 }
 
-.zero{
+.zero {
     float: left;
     clear: left;
     height: 500px;
     width: 1000px;
-    margin-left: 10px;
+    margin-left: 25px;
     background: url(../img/12729079_10206008140150309_1148028568888089071_n.jpg);
     background-position: center;
     background-repeat: no-repeat;
 }
 
-.zero h1{
+.zero h1 {
     margin-left: 200px;
     padding-top: 150px;
     font-size: 50px;
@@ -150,7 +153,7 @@ the-wall{
     margin-bottom: 70px;
 }
 
-.zero a{
+.zero a {
     color: #FF00FF;
     background-color: black;
     padding-left: 40px;
@@ -158,10 +161,9 @@ the-wall{
     padding-top: 10px;
     padding-bottom: 10px;
     margin-left: 40px;
-   
+    text-decoration: none;
 }
 
-.go  {
-     margin-left: 325px;
-    
+.go {
+    margin-left: 325px;
 }
