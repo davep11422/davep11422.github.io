@@ -63,6 +63,12 @@ header h3 {
     margin-top: 100px;
 }
 
+.tea-leaf h3{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    
+}
 
 .pics {
     float: left;
