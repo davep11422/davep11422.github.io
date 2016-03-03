@@ -121,6 +121,7 @@ header h3 {
     color: #FF00FF;
     padding-top: 100px;
     padding-left: 50px;
+    height: 500px;
 }
 
 .legs {
@@ -134,12 +135,14 @@ header h3 {
 
 the-wall {
     float: left;
-    padding-top: 100px;
     clear: left;
     width: 375px;
+    /*padding-top: 100px;
+    clear: left;
+    
     text-align: center;
     padding-left: 100px;
-    margin-left: 120px;
+    margin-left: 120px;*/
 }
 
 .zero {
