@@ -1,0 +1,85 @@
+container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+body {
+    font-family: 'Oswald', sans-serif;
+    background: black;
+}
+
+header {
+    height: 20px;
+    padding: 15px;
+    color: #FF00FF;
+}
+
+header a {
+    color: #FF00FF;
+    padding: 10px;
+    text-decoration: none;
+}
+
+header nav {
+    float: right;
+    padding-top: px;
+}
+
+header h3 {
+    float: left;
+    font-size: 20px;
+}
+
+#hero {
+    background: url(../img/tumblr_o2gsgqAwTI1uaw99qo1_1280.jpg);
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-weight: bold;
+}
+
+#hero h1 {
+    text-align: center;
+    padding-top: 250px;
+    font-size: 80px;
+    color: #FF00FF;
+}
+
+#hero p {
+    text-align: center;
+    color: #FF00FF;
+    font-size: 30px;
+}
+
+#space{
+    padding: 50px 25px;
+}
+
+#space div{
+    float: left;
+    color: #FF00FF;
+    
+}
+
+#space .tea{
+    width: 38%
+}
+
+#space .tea img{
+    width: 100%
+}
+
+#space .tea-leaf {
+    margin-left: 30px;
+    width: 55%;
+}
+
+#space .tea-leaf h3 {
+    margin-top: 80px;
+    font-size: 1.7em;
+}
+
+#space .tea-leaf p {
+    margin-top: 30px;
+    line-height: 25px;
+}
