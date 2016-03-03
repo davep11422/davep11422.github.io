@@ -3,6 +3,12 @@ container {
     margin: 0 auto;
 }
 
+.clear-fix:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
 body {
     font-family: 'Oswald', sans-serif;
     background: black;
@@ -82,4 +88,17 @@ header h3 {
 #space .tea-leaf p {
     margin-top: 30px;
     line-height: 25px;
+}
+
+#pics {
+    padding: 25px 0;
+    color: #FF00FF;
+    width: 100%;
+}
+
+#pics div {
+    float: left;
+    width: 300px;
+    text-align: center;
+    margin-right: 28px;
 }
