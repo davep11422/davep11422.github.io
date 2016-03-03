@@ -27,6 +27,7 @@ header nav {
 
 header h3 {
     float: left;
+    font-size: 20px;
 }
 
 #tree {
@@ -111,6 +112,7 @@ header h3 {
     float: left;
     width: 275px;
     text-align: center;
+    margin-left: 40px;
 }
 
 .big-picture {
@@ -118,6 +120,7 @@ header h3 {
     width: 1000px;
     color: #FF00FF;
     padding-top: 100px;
+    padding-left: 50px;
 }
 
 .legs {
@@ -136,7 +139,7 @@ the-wall {
     width: 375px;
     text-align: center;
     padding-left: 100px;
-    margin-left: 100px;
+    margin-left: 120px;
 }
 
 .zero {
@@ -148,6 +151,7 @@ the-wall {
     background: url(../img/12729079_10206008140150309_1148028568888089071_n.jpg);
     background-position: center;
     background-repeat: no-repeat;
+    padding-left: 80px;
 }
 
 .zero h1 {
