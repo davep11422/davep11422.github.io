@@ -18,6 +18,12 @@
     font-size: 40px;
 }
 
+.about p{
+    font-size: 20px;
+    
+    
+}
+
 .about {
     text-align: center;
     width: 900px;
@@ -46,4 +52,8 @@ pics {
 
 .terrian {
     float: left;
+}
+
+.body{
+    font-family: sans-serif;
 }
