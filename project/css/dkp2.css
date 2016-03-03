@@ -103,6 +103,11 @@ header h3 {
     margin-right: 28px;
 }
 
+#pics h1{
+    font-size: 30px;
+    font-weight: bold;
+}
+
 #big-picture {
     padding: 25px 0;
     color: #FF00FF;
