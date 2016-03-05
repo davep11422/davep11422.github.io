@@ -108,7 +108,6 @@ header h3 {
     text-align: center;
 }
 
-
 .eyes {
     float: left;
     width: 275px;
@@ -116,15 +115,7 @@ header h3 {
     margin-left: 40px;
 }
 
-#big-picture div{
-    float: left;
-    width: 50%;
-    height: 500px;
-    
-}
-
-
-/*.big-picture {
+.big-picture {
     float: left;
     width: 1000px;
     color: #FF00FF;
