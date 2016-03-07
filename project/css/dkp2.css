@@ -38,7 +38,7 @@ header h3 {
 
 #hero {
     background: url(../img/tumblr_o2gsgqAwTI1uaw99qo1_1280.jpg);
-    height: 500px;
+    height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     font-weight: bold;
@@ -162,4 +162,17 @@ header h3 {
 
 .go {
     margin-right: 140px;
+}
+
+#pics .eyes {
+    width: 300px;
+    height: 333px;
+    margin: 0 auto;
+}
+
+.eyes img {
+    width: 100%;
+}
+        
+        
 
