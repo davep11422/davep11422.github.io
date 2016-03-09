@@ -1,0 +1,85 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.clear-fix:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+#hero{
+    background: url(../img/sub_header_home.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px 0px 100px 50px;
+    height: 200px;
+    
+}
+
+#hero h1{
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+
+#info{
+     margin-top: 20px;
+    width: 100%;
+}
+
+#info div {
+    float: left;
+    width: 18%;
+    margin-left: 55px;
+    text-align: center;
+}
+
+#info h4{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+@media (min-width: 768px) and (max-width: 991px) { 
+/* tablet code */
+
+#hero h1{
+    font-size: 70px;
+}
+
+
+
+
+.maps{
+    float: left;
+    width: 50%;
+}
+
+.lock{
+    float: left;
+    width: 50%;
+}
+
+.store{
+    float: right;
+}
+
+.car{
+    float: right;
+}
+
+@media (max-width: 767px) { 
+/* phone-code */
+    
+    #info div{
+        float: none;
+        
+    }
+
+
+
+
+
+
