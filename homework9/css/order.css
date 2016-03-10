@@ -49,29 +49,37 @@
     font-size: 70px;
 }
 
+    
+ #info div {
+    width: 50%;
+    margin: 0 auto;
+}
+    
+    
+
 
 
 
 .maps{
-    float: left;
+/*   float: left;*/
     width: 50%;
 }
 
 .lock{
-    float: left;
+/*    float: left;*/
     width: 50%;
 }
 
 .store{
-    float: right;
+/*    float: right;*/
 }
 
-.car{
-    float: right;
+#info .car{
+/*    float: right;*/
 }
 
 @media (max-width: 767px) { 
-/* phone-code */
+/* phone-code 
     
     #info div{
         float: none;
