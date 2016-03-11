@@ -56,10 +56,6 @@
 }
     
     
-
-
-
-
 .maps{
 /*   float: left;*/
     width: 50%;
@@ -71,7 +67,7 @@
 }
 
 .store{
-/*    float: right;*/
+/*float: right;*/
 }
 
 #info .car{
@@ -79,7 +75,7 @@
 }
 
 @media (max-width: 767px) { 
-/* phone-code 
+/* phone-code */
     
     #info div{
         float: none;
