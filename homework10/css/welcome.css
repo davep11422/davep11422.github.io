@@ -84,22 +84,18 @@
 @media (max-width: 767px) { 
 /* phone-code */
     
-    #top{
+    #blue{
+        float: left;
         width: 50%;
-        float: left;
+            
+            
     }
     
-    #middle{
-         width: 50%;
+    #black{
         float: left;
-        
+        width: 50%;
     }
     
-    #bottom{
-         width: 50%;
-        float: left;
-        
-    }
     
     
     
