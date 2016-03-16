@@ -35,23 +35,26 @@
     font-size: 40px;
 }
 
-pics {
+.pics {
     float: left;
     width: 1070px;
 }
 
 .flag {
     float: left;
-    margin-right: 90px;
+    margin-right: 100px;
 }
 
 .moped {
     float: left;
-    margin-right: 90px;
+     margin-right: 120px;
+    margin-left: 25px
+    
 }
 
 .terrian {
     float: left;
+    margin-left: 10px;
 }
 
 .body{

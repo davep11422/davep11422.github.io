@@ -80,3 +80,27 @@
     text-align: center;
     margin-left: 90px;
 */
+
+@media (max-width: 767px) { 
+/* phone-code */
+    
+    #top{
+        width: 50%;
+        float: left;
+    }
+    
+    #middle{
+         width: 50%;
+        float: left;
+        
+    }
+    
+    #bottom{
+         width: 50%;
+        float: left;
+        
+    }
+    
+    
+    
+    
