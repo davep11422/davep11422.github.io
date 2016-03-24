@@ -73,6 +73,8 @@
 #info .car{
 /*    float: right;*/
 }
+    
+}
 
 @media (max-width: 767px) { 
 /* phone-code */
@@ -80,6 +82,9 @@
     #info div{
         float: none;
         
+    }
+    
+    
     }
 
 

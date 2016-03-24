@@ -35,7 +35,7 @@
     text-align: center;
 }
 
-#info div{
+#info {
     float: left;
     width: 25%;
     padding-top: 30px;
@@ -58,19 +58,40 @@
     margin-left: 60px;
 }
 
-.black-b h4{
+#black-b {
+    float: left;
+    width: 25%;
+        
+}
+
+#brown {
+    float: left;
+    width: 25%;
+}
+
+#l-blue {
+    float: left;
+width: 25%;
+}
+
+#white {
+    float: left;
+ width: 25%;
+}
+
+#black-b h4{
     background-color: black;
 }
 
-.brown h4{
+#brown h4{
     background-color: brown;
 }
 
-.l-blue h4 {
+#l-blue h4 {
     background-color: lightblue;
 }
 
-.white h4 {
+#white h4 {
     background-color: white;
 }
 
@@ -85,16 +106,42 @@
 /* phone-code */
     
     #blue{
-        float: left;
+ float: left;
         width: 50%;
-            
-            
+        justify-content: center;
+    }
+        
+        
+ #black{
+ float: left;
+        width: 50%;
+     justify-content: center;
+        
+ }
+    
+  
+    
+    #black-b{
+        float: left;
+        width: 50%
+}
+     #brown{
+        float: left;
+        width: 50%
+}
+    
+    #l-blue{
+        float: left;
+        width: 50%
+}
+    
+    #white{
+        float: left;
+        width: 50%
     }
     
-    #black{
-        float: left;
-        width: 50%;
-    }
+}
+   
     
     
     
