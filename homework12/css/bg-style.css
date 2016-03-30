@@ -1,11 +1,9 @@
 .container {
-    width: 90%;
-    margin: 0 auto;
-    font-family: monospace;
+   font-family: monospace;
 }
 
 .giant h2{
-    width: 500px;
+    
     
 }
 
