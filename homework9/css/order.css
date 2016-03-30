@@ -9,18 +9,43 @@
     clear: both;
 }
 
-#hero{
+.hero{
     background: url(../img/sub_header_home.jpg);
     background-position: center;
     background-size: cover;
     color: white;
     text-align: center;
     padding: 100px 0px 100px 50px;
-    height: 200px;
+    height: 500px;
     
 }
 
-#hero h1{
+.hero h1{
+    font-size: 50px;
+    font-family: sans-serif;
+}
+.hero p{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.row{
+    padding-top: 20px;
+    text-align: center;
+    
+}
+
+.row h4{
+    font-weight: bold;
+    
+    
+}
+
+
+
+
+
+/*#hero h1{
     font-size: 40px;
     padding-bottom: 10px;
 }
@@ -45,7 +70,7 @@
 @media (min-width: 768px) and (max-width: 991px) { 
 /* tablet code */
 
-#hero h1{
+/*#hero h1{
     font-size: 70px;
 }
 
@@ -58,29 +83,29 @@
     
 .maps{
 /*   float: left;*/
-    width: 50%;
+/*    width: 50%;*/
 }
 
-.lock{
+/*.lock{
 /*    float: left;*/
-    width: 50%;
+/*    width: 50%;*/
 }
 
-.store{
+/*.store{*/
 /*float: right;*/
 }
 
-#info .car{
+/*#info .car{*/
 /*    float: right;*/
 }
     
 }
 
-@media (max-width: 767px) { 
+/*@media (max-width: 767px) { */
 /* phone-code */
     
-    #info div{
-        float: none;
+/*    #info div{*/
+/*        float: none;*/*/
         
     }
     

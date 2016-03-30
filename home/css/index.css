@@ -1,0 +1,40 @@
+#hero{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+.links{
+    background: url(https://s-media-cache-ak0.pinimg.com/736x/14/f5/9f/14f59f18f2bf228b2ca201fabe8a0cb2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background: linear-gradient(to bottom, rgba(20, 20, 20, 0.9) 0%, rgba(0, 0, 0, 0.9) 100%), url('homework7/img/tumblr_nvi1ovWYXZ1uaw99qo1_1280.jpg');
+        
+}
+
+ .links a {
+     color: whitesmoke;
+    font-weight: bold;
+    
+}
+
+#body{
+    margin-top: 60px;
+    
+    text-align: center;
+    background: linear-gradient(to bottom, rgba(20, 20, 20, 0.9) 0%, rgba(0, 0, 0, 0.9) 100%), url('homework7/img/tumblr_nvi1ovWYXZ1uaw99qo1_1280.jpg');
+}
+
+#body h1{
+    font-size: 50px;
+    color: whitesmoke;
+}
+#body p{
+    font-size: 30px;
+    color: whitesmoke;
+}
+
+body{
+    background: url(https://i.ytimg.com/vi/P_hAjJBH01o/maxresdefault.jpg);
+    background-position: center;
+    
