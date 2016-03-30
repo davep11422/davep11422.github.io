@@ -2,28 +2,7 @@
    font-family: monospace;
 }
 
-.giant h2{
-    
-    
-}
 
-
-.zero{
-    margin-left: 400px;
-    font-weight: bold;
-    padding-bottom: 30px;
-    
-}
-
-.zero h1{
-    padding-bottom: 20px;
-}
-
-.zero p{
-    padding-bottom: 20px;
-    font-size: 20px;
-    
-}
 
 .links{
     background-color: gray;
@@ -37,6 +16,7 @@
     color: white;
     border-bottom: white solid 1px;
     list-style-type: none;
+    
     
 }
 
