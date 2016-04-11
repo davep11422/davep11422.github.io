@@ -26,15 +26,16 @@ Main {
 .skyline a{
     color:white;
     border: 1px solid red;
-    font-size: 30px;
+    font-size: 20px;
     padding-bottom: 3px;
     padding-top: 3px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
     
 }
 .skyline p {
     font-size: 50px;
+    margin-bottom: 70px;
 }
 
 .old-school{
