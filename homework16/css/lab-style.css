@@ -1,0 +1,23 @@
+/*div{*/
+/*    height: 180px;*/
+}
+
+.yellow-bg{
+    background: yellow;
+}
+
+body{
+    background: #c1c1c1;
+    
+}
+
+.coco{
+    padding:30px;
+    min-height: 220px;
+    background: gray;
+}
+
+.yellow-bg{
+    background-color: yellow;
+    min-height: 490px;
+}
