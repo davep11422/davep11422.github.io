@@ -19,6 +19,10 @@ Main {
     margin-top: 50px;
 }
 
+.skyline{
+    margin-bottom: 50px;
+}
+
 .skyline h1{
     font-size: 70px;
     
@@ -39,7 +43,8 @@ Main {
 }
 
 .old-school{
-    padding-top: 60px;
+    margin-top: 30px;
+    padding-top: 10px;
     text-align: center;
     padding-top: 50px;
     color: white;
@@ -49,7 +54,7 @@ Main {
 
 .old-school h2{
     font-size: 40px;
-    padding-top: 70px;
+    
     
 }
 
