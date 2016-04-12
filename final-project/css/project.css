@@ -61,6 +61,8 @@ Main {
 .old-school p{
     font-size: 20px;
     
+    text-align: center;
+    
 }
 
 .service{
@@ -74,6 +76,7 @@ Main {
     font-size: 50px;
     font-weight: bold;
     margin-bottom: 40px;
+    width: 200px;
     
     
 }
@@ -81,6 +84,7 @@ Main {
 .service p{
     font-weight: bold;
     font-size: 10px;
+    
 }
 
 .bad-car{
