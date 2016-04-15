@@ -1,0 +1,21 @@
+.hero{
+    background: url(../img/Screen-Shot-2015-12-29-at-09-43-04.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 1000px;
+    text-align: center;
+   
+}
+
+
+
+.last h1{
+    margin-top: 300px;
+    color: goldenrod;
+    font-family: 'Sonsie One', cursive;
+    font-size: 100px;
+}
+
+.container{
+    background: black;
+}
