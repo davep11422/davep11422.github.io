@@ -2,7 +2,7 @@
     background: url(../img/Screen-Shot-2015-12-29-at-09-43-04.png);
     background-position: center;
     background-repeat: no-repeat;
-    max-width: 100%;
+    min-width: 100%;
     background-size: cover;
 }
 
@@ -22,11 +22,20 @@
 }
 
 .container-fulid{
+    max-width: 100%;
     background: black;
+        
 }
+
+
 .puppets{
     text-align: center;
+    background: black;
 }
+
+
+    
+
 
 .puppets h4:first-child{
     padding-top: 70px;
@@ -44,4 +53,25 @@
     font-family: 'Lato', sans-serif;
     font-weight: 900;
 }
+
+.dance{
+    text-align: center;
+}
+.gold{
+    
+    text-align: center;
+}
+
+.gold div{
+    background: goldenrod;
+    font-size: 30px;
+    margin-top: 20px;
+    padding-top: 50px;
+}
+.gold div a{
+    font-family: 'Sonsie One', cursive;
+    color: white;
+    
+}
+
 
