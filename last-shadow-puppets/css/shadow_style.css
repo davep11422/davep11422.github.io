@@ -64,13 +64,44 @@
 
 .gold div{
     background: goldenrod;
-    font-size: 30px;
+    font-size: 20px;
     margin-top: 20px;
     padding-top: 50px;
 }
 .gold div a{
     font-family: 'Sonsie One', cursive;
     color: white;
+    
+}
+
+.big-back{
+    
+    background: url(../img/tlsp.jpg);
+    max-width: 100%;
+    text-align: center;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+.big-back h4{
+    padding-top: 450px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 60px;
+    
+}
+
+.big-back a{
+    color: black;
+    background-color: goldenrod;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     
 }
 
