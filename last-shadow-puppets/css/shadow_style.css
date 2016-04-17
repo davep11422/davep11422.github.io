@@ -1,4 +1,4 @@
-.hero{
+.hero {
     background: url(../img/Screen-Shot-2015-12-29-at-09-43-04.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -6,14 +6,13 @@
     background-size: cover;
 }
 
-.nav li{
+.nav li {
     color: goldenrod;
     font-weight: bold;
     padding-left: 5px;
 }
 
-
-.last h1{
+.last h1 {
     margin-top: 400px;
     color: goldenrod;
     font-family: 'Sonsie One', cursive;
@@ -22,32 +21,25 @@
     padding-bottom: 100px;
 }
 
-.container-fulid{
+.container-fulid {
     max-width: 100%;
     background: black;
-        
 }
 
-
-.puppets{
+.puppets {
     text-align: center;
     background: black;
 }
 
-
-    
-
-
-.puppets h4:first-child{
+.puppets h4:first-child {
     padding-top: 70px;
     font-size: 30px;
     color: goldenrod;
     font-family: 'Lato', sans-serif;
     font-weight: 900;
-    
 }
 
-.puppets h4:last-child{
+.puppets h4:last-child {
     padding-top: 20px;
     font-size: 30px;
     color: white;
@@ -55,48 +47,43 @@
     font-weight: 900;
 }
 
-.dance{
-    text-align: center;
-}
-.gold{
-    
+.dance {
     text-align: center;
 }
 
-.gold div{
+.gold {
+    text-align: center;
+}
+
+.gold div {
     background: goldenrod;
     font-size: 20px;
     margin-top: 20px;
     padding-top: 50px;
 }
-.gold div a{
+
+.gold div a {
     font-family: 'Sonsie One', cursive;
     color: white;
-    
 }
 
-.big-back{
-    
+.big-back {
     background: url(../img/tlsp.jpg);
     max-width: 100%;
     text-align: center;
     background-position: top;
     background-repeat: no-repeat;
-    
-    
-    
 }
 
-.big-back h4{
+.big-back h4 {
     padding-top: 450px;
     color: white;
     font-family: 'Lato', sans-serif;
     font-weight: 900;
     font-size: 60px;
-    
 }
 
-.big-back a{
+.big-back a {
     color: black;
     background-color: goldenrod;
     font-family: 'Lato', sans-serif;
@@ -105,11 +92,9 @@
     padding-left: 70px;
     padding-right: 70px;
     padding-top: 5px;
-    
-    
-}
-.big-back p{
-    padding-bottom: 50px;
 }
 
+.big-back p {
+    padding-bottom: 50px;
+}
 
