@@ -1,6 +1,7 @@
 html,
 body {
     height: 100%;
+     background-color: black;
 }
 
 html {
@@ -11,11 +12,14 @@ html {
 .title-5em {
         font-size: 5em;
 }
+#container-fulid{
+    background-color: black;
+}
 
 
 #hero {
     margin-top: 50px;
-    background: #ccc;
+    background: url(../img/Screen-Shot-2015-12-29-at-09-43-04.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -23,6 +27,7 @@ html {
     text-align: center;
     display: table;
     width: 100%;
+    font-family: 'Sonsie One', cursive;
 }
 
 #hero > div {
@@ -31,6 +36,7 @@ html {
 }
 
 #hero h1 {
+    color: goldenrod;
     font-size: 10em;
     text-transform: uppercase;
 }
