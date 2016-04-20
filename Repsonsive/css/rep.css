@@ -10,10 +10,12 @@ html {
 }
 
 .title-3em {
-        font-size: 5em;
+        font-size: 7em;
 }
 
-
+.navbar{
+    background-color: black;
+}
 
 
 #hero {
@@ -36,7 +38,7 @@ html {
 
 #hero h1 {
     color: goldenrod;
-    font-size: 10em;
+    font-size: 5em;
     text-transform: uppercase;
 }
 
@@ -58,16 +60,23 @@ html {
     color: #fff;
 }
 #info {
-    padding: 80px 0;
+    padding: 30px 0;
+}
+
+#info div h2{
+    padding-top: 50px;
+    color: goldenrod;
 }
 
 #info p {
     line-height: 24px;
+    text-align: center;
+    color: white;
 }
 
 #value {
-    padding: 80px 0;
-    background: #eee;
+    padding: 30px 0;
+    background: black;
 }
 
 .img-caption {
