@@ -1,3 +1,7 @@
+body{
+    background: black;
+}
+
 .hero {
     background: url(../img/Screen-Shot-2015-12-29-at-09-43-04.png);
     background-position: center;
@@ -6,7 +10,7 @@
     background-size: cover;
 }
 
-.nav li {
+.nav li a{
     color: goldenrod;
     font-weight: bold;
     padding-left: 5px;
@@ -40,7 +44,7 @@
 }
 
 .puppets h4:last-child {
-    padding-top: 20px;
+    padding-top: px;
     font-size: 30px;
     color: white;
     font-family: 'Lato', sans-serif;
@@ -48,7 +52,8 @@
 }
 
 .dance {
-    text-align: center;
+    background-color: black;
+    
 }
 
 .gold {
@@ -58,7 +63,7 @@
 .gold div {
     background: goldenrod;
     font-size: 20px;
-    margin-top: 20px;
+    margin-top: px;
     padding-top: 50px;
 }
 
