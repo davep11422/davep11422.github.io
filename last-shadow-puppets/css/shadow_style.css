@@ -103,3 +103,34 @@ body{
     padding-bottom: 50px;
 }
 
+/*Phone*/
+
+@media (max-width:768px) {
+    .title-5em {
+        font-size: 3.7em;
+    }
+    #hero h1 {
+        font-size: 4em;
+    }
+    #value .col-xs-12:nth-child(2) {
+        margin-top: 50px;
+    }
+    #footer .btn-action:last-child {
+        margin-top: 30px;
+    }
+}
+
+
+/*Tablet*/
+
+@media (min-width: 769px) and (max-width: 992px) {
+    .title-5em {
+        font-size: 2.4em;
+    }
+    #hero h1 {
+        font-size: 4.5em;
+    }
+    #value .col-xs-12:nth-child(2) {
+        margin-top: 50px;
+    }
+}
