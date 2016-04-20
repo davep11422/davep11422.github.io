@@ -1,7 +1,7 @@
 html,
 body {
     height: 100%;
-     background-color: black;
+    background-color: black;
 }
 
 html {
@@ -10,13 +10,12 @@ html {
 }
 
 .title-3em {
-        font-size: 7em;
+    font-size: 7em;
 }
 
-.navbar{
+.navbar {
     background-color: black;
 }
-
 
 #hero {
     margin-top: 50px;
@@ -59,11 +58,12 @@ html {
     padding: 30px 0;
     color: #fff;
 }
+
 #info {
     padding: 30px 0;
 }
 
-#info div h2{
+#info div h2 {
     padding-top: 50px;
     color: goldenrod;
 }
@@ -88,27 +88,23 @@ html {
     font-weight: bold;
 }
 
-#bar-link{
+#bar-link {
     text-align: center;
     height: 50px;
     background-color: goldenrod;
 }
 
 #bar-link a {
-    padding-top:80px;
+    padding-top: 80px;
     color: white;
     font-family: 'Sonsie One', cursive;
-    
 }
-
-
 
 #footer {
     background: url(../img/tlsp.jpg);
     background-position: top;
     padding: 80px 0;
     max-height: 100%;
-    
 }
 
 #footer h3 {
@@ -116,25 +112,23 @@ html {
     color: #fff;
 }
 
-.zero p{
+.zero p {
     padding-bottom: 200px;
 }
 
+
 /*Phone*/
+
 @media (max-width:768px) {
-   
     .title-5em {
         font-size: 3.7em;
     }
-    
     #hero h1 {
         font-size: 4em;
     }
-   
     #value .col-xs-12:nth-child(2) {
         margin-top: 50px;
     }
-    
     #footer .btn-action:last-child {
         margin-top: 30px;
     }
@@ -142,16 +136,14 @@ html {
 
 
 /*Tablet*/
+
 @media (min-width: 769px) and (max-width: 992px) {
-    
     .title-5em {
         font-size: 2.4em;
     }
-    
     #hero h1 {
         font-size: 4.5em;
     }
-    
     #value .col-xs-12:nth-child(2) {
         margin-top: 50px;
     }
